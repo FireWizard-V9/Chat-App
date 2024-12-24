@@ -3,9 +3,10 @@ spring:
     mongodb:
       username: alibou
       password: alibou
-      host: localhost
+      host: mongodb
       port: 27017
       database: chat_app
       authentication-database: admin
+
 server:
   port: 8088

@@ -1,4 +1,4 @@
-package com.alibou.websocket.user;
+package com.chatapp.websocket.user;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
